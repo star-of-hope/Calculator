@@ -1,0 +1,16 @@
+!*.zip
+!*.java
+!*.dll
+!*.jar
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.apk
+.DS_Store
+Library
+Temp
+ios_build
+iosBuild
+obj
